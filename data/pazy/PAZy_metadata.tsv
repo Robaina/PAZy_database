@@ -1,0 +1,142 @@
+Internal_ID	Polymer	Polymer_ID	Organism	Enzyme Name	EC Number	References	Database_Type	Database_ID
+1	Polyethylene terephthalate (PET)	PET	Ideonella sakaiensis 201-F6 1	ISPETase, ISF6_4831 ( →DuraPETase ) ( →ThermoPETase ) ( →Fast-PETase ) ( →HotPETase ) ( →DepoPETase )	EC 3.1.1.101	Yoshida, 2016; Han 2017; Cui, 2021; Son, 2019; Lu, 2022; Bell, 2022; Shi et al., 2023; Sevilla et al., 2023	UniProt	A0A0K8P6T7
+2	Polyethylene terephthalate (PET)	PET	Oleispira antarctica RB-8	PET5, LipA (=Oacut)	EC 3.1.1.1	Danso, 2018; Blasquez-Sanchez, 2021	UniProt	R4YKL9
+3	Polyethylene terephthalate (PET)	PET	Vibrio gazogenes	PET6, BSQ33_03270	EC 3.1.1.1	Danso, 2018	UniProt	A0A1Z2SIQ1
+4	Polyethylene terephthalate (PET)	PET	Caldimonas brevitalea	PET12 ( Pb Cut;SbCut), AAW51_2473	EC 3.1.1.1	Danso, 2018; Chen, 2021; Avilan,2023	UniProt	A0A0G3BI90
+5	Polyethylene terephthalate (PET)	PET	Pseudomonas oleovorans/ pseudoalcaligenes DSM 50188	PpCutA/PoCut	EC 3.1.1.74	Inglis, 2011; Haernvall, 2017	GenBank	ADK73612
+6	Polyethylene terephthalate (PET)	PET	Pseudomonas saudimassiliensis	PsCut	EC 3.1.1.1	Avilan, 2023	UniProt	A0A078MGG8
+7	Polyethylene terephthalate (PET)	PET	Halopseudomonas bauzanensis	PbauzCut	EC 3.1.1.1	Avilan, 2023	UniProt	A0A031MKR8
+8	Polyethylene terephthalate (PET)	PET	Pseudomonas alcaligenes	PaCut	EC 3.1.1.1	Avilan, 2023	GenBank	SUD16364.1
+9	Polyethylene terephthalate (PET)	PET	Moraxella sp.TA144	lip1, Mors1	EC 3.1.1.3	Blasquez-Sanchez, 2021	UniProt	P19833
+10	Polyethylene terephthalate (PET)	PET	Pseudomonas pseudoalcaligenes	PpEst (tesA)	EC 3.1.1.2	Haernvall, 2017; Wallace, 2016	UniProt	W6R2Y2
+11	Polyethylene terephthalate (PET)	PET	Pseudomonas sp . strain 9.2	EstB	EC 3.1.1.1	Edwards et al., 2022	GenBank	WP_085690612
+12	Polyethylene terephthalate (PET)	PET	Rhizobacter gummiphilus	RgCut-II	EC 3.1.1.1	Avilan, 2023	GenBank	WP_085749238.1
+13	Polyethylene terephthalate (PET)	PET	Ketobacter sp.	Enzyme 403		Erickson, 2022	GenBank	RLU00646.1
+14	Polyethylene terephthalate (PET)	PET	Ketobacter sp.	Enzyme 409		Erickson, 2022	GenBank	RLT92980.1
+15	Polyethylene terephthalate (PET)	PET	Ketobacter alkanivorans	Enzyme 412		Erickson, 2022	GenBank	WP_101893509.1
+16	Polyethylene terephthalate (PET)	PET	Comamonadaceae bacterium	Enzyme 406		Erickson, 2022	GenBank	ODU60407.1
+17	Polyethylene terephthalate (PET)	PET	Caldimonas taiwanensis+D57	Ct PL (Enzyme 504)		Chen, 2021; Erickson, 2022	GenBank	WP_062195544.1
+18	Polyethylene terephthalate (PET)	PET	Acidovorax delafieldii	PbsA/AdCut	EC 3.1.1.1	Avilan, 2023	UniProt	Q8RR62
+19	Polyethylene terephthalate (PET)	PET	Burkholderia bacterium	Bur PL		Chen, 2021; Chen, 2021; Sagong, 2022; Huang, 2023	UniProt	A0A1F4JXW8
+20	Polyethylene terephthalate (PET)	PET	Halopseudomonas formosensis	Hfor _PE-H		de Witt, 2023	GenBank	WP_090538641.1
+21	Polyethylene terephthalate (PET)	PET	Pseudomonadota bacterium	dsPETase06		Chen, 2024	GenBank	MEC8523093.1
+22	Polyethylene terephthalate (PET)	PET	Brucella	PD3		Jin, 2024	GenBank	QPA27412
+23	Polyethylene terephthalate (PET)	PET	Pseudomonas paralcaligenes MRCP1333	PpPETase		Han, 2024	GenBank	WP_220815207
+24	Polyethylene terephthalate (PET)	PET	LCC	leaf compost metagenome, highly similar to HRB29 locus GBD22443	EC 3.1.1.74	Sulaiman, 2012;; Shirke, 2018; Tournier, 2020	UniProt	G9BY57
+25	Polyethylene terephthalate (PET)	PET	BhrPETase from HR29 bacterium	>96% identical to LCC	EC 3.1.1.74	Xi, 2021	GenBank	GBD22443
+26	Polyethylene terephthalate (PET)	PET	T. fusca DSM43793	BTA-1, TfH	EC 3.1.1.74	Dresler, 2006; Müller 2005; Kleeberg 1998; 2005	UniProt	Q6A0I4
+27	Polyethylene terephthalate (PET)	PET	T. fusca DSM44342	TfH42_Cut1	EC 3.1.1.74	Herrero Acero, 2011	UniProt	E9LVI0
+28	Polyethylene terephthalate (PET)	PET	T. fusca (strain YX)	WSH03-11, Tfu_0883	EC 3.1.1.74	Chen, 2008; Su, 2013; Lykidis, 2007	UniProt	Q47RJ6
+29	Polyethylene terephthalate (PET)	PET	T. fusca (strain YX)	WSH03-11, Tfu_0882	EC 3.1.1.74	Chen, 2008	UniProt	Q47RJ7
+30	Polyethylene terephthalate (PET)	PET	T. fusca	TfCut_1 (Cut-1.kw3) (only active on 3PET; not on higher polymers!)	3.1.1.101	Herrero Acero, 2011	UniProt	E5BBQ2
+31	Polyethylene terephthalate (PET)	PET	T. fusca	TfCut_2 (Cut-2.kw3)	EC 3.1.1.74	Furukawa, 2019,; Roth, 2014; Wei 2016	UniProt	E5BBQ3
+32	Polyethylene terephthalate (PET)	PET	T. fusca	Enzyme 701		Erickson, 2022	GenBank	WP_104613137.1
+33	Polyethylene terephthalate (PET)	PET	T. fusca	Enzyme 702		Erickson, 2022	GenBank	ADM47605.1
+34	Polyethylene terephthalate (PET)	PET	T. cellulosilytica DSM44535	Thc_Cut1	EC 3.1.1.74	Herrero Acero, 2011; Ribitsch 2017	GenBank	ADV92526.1
+35	Polyethylene terephthalate (PET)	PET	T. cellulosilytica DSM44535	Thc_Cut2	EC 3.1.1.74	Herrero Acero, 2011; Ribitsch 2017	GenBank	ADV92571
+36	Polyethylene terephthalate (PET)	PET	T. cellulosilytica	Enzyme 711		Erickson, 2022	GenBank	WP_083947829.1
+37	Polyethylene terephthalate (PET)	PET	T. curvata DSM43183	Tcur_1278	EC 3.1.1.74	Wei, 2014	UniProt	D1A9G5
+38	Polyethylene terephthalate (PET)	PET	T. halotolerans	Thh_Est	EC 3.1.1.1	Ribitsch, 2012	UniProt	H6WX58
+39	Polyethylene terephthalate (PET)	PET	T. alba ( AHK119)	Est1 (Hydrolase 4); Enzyme 708	EC 3.1.1.1	Hu, 2010; Erickson, 2022	GenBank	BAI99230
+40	Polyethylene terephthalate (PET)	PET	T. alba DSM43185	Tha_Cut1, cut1	EC 3.1.1.74	Ribitsch, 2012	UniProt	E9LVH7
+41	Polyethylene terephthalate (PET)	PET	T. alba AHK119	Est119, est2	EC 3.1.1.1	Kitadokoro, 2019	UniProt	F7IX06
+42	Polyethylene terephthalate (PET)	PET	Saccharomonospora (Thermoactinomyces) viridis AHK190	Cut190	EC 3.1.1.74	Miyakawa, 2014; Kawai, 2014; Oda, 2018	UniProt	W0TJ64
+43	Polyethylene terephthalate (PET)	PET	Actinobacteria bacterium OK074	Enzyme 405		Erickson, 2022	GenBank	WP_082414832.1
+44	Polyethylene terephthalate (PET)	PET	Allorhizocoloa rhizosphaerae	Enzyme 407		Erickson, 2022	GenBank	WP_117215036.1
+45	Polyethylene terephthalate (PET)	PET	Nocardioidaceae bacterium	Enzyme 503		Erickson, 2022	GenBank	EGD44994.1
+46	Polyethylene terephthalate (PET)	PET	Marinactinospora thermotolerans	MtCut / Enzyme 606		Liu et al. 2022; Erickson, 2022	GenBank	WP_078759821.1
+47	Polyethylene terephthalate (PET)	PET	Actinobacteria bacterium OV320	Enzyme 607		Erickson, 2022	GenBank	WP_107095481.1
+48	Polyethylene terephthalate (PET)	PET	Saccharopolyspora flava	Enzyme 611		Erickson, 2022	GenBank	WP_093412886.1
+49	Polyethylene terephthalate (PET)	PET	Rhodococcus sp.	Rcut (PBATh), OL660765		Won, 2022	GenBank	UNZ22463.1
+50	Polyethylene terephthalate (PET)	PET	Streptomyces scabiei	Sub1		Jabloune, 2020	GenBank	QEX94755.1
+51	Polyethylene terephthalate (PET)	PET	Streptomyces sp. SM14	SM14est		Almeida, 2019; Carr, 2023	GenBank	DAC80635
+52	Polyethylene terephthalate (PET)	PET	Compost metagenome	PHL-1 2		Sonnendecker, 202	GenBank	SAY37579.1
+53	Polyethylene terephthalate (PET)	PET	Compost metagenome	PHL-2 2		Sonnendecker, 202	GenBank	SAY37582.1
+54	Polyethylene terephthalate (PET)	PET	Amycolatopsis bacterium	PET40		Zhang, 2023	GenBank	WAU86704.1
+55	Polyethylene terephthalate (PET)	PET	Microbispora sp.	SIBER-1		Tiong, 2023	GenBank	WOR09923
+56	Polyethylene terephthalate (PET)	PET	Dietzia kunjamensis	Dkca1		Singh, 2024	GenBank	WID88783.1
+57	Polyethylene terephthalate (PET)	PET	Streptomyces calvus DSM 41452	ScPETase		Han, 2024	GenBank	QDI72884
+58	Polyethylene terephthalate (PET)	PET	Bacillus subtilis 4P3-11	BsEstB	EC 3.1.1.1	Ribitsch,2011	GenBank	ADH43200.1
+59	Polyethylene terephthalate (PET)	PET	Bacillus safensis	LipMRD9	EC 3.1.1.3	Vidal, 2024	GenBank	APJ12152.1
+60	Polyethylene terephthalate (PET)	PET	Compost metagenome	PHL-3 2		Sonnendecker, 202	GenBank	SAY37583.1
+61	Polyethylene terephthalate (PET)	PET	Clostridium botulinum ATCC3502	Cbotu_EstA 3		Perz et al., 2015	GenBank	AKZ20828.1
+62	Polyethylene terephthalate (PET)	PET	Cryptosporangium aurantiacum	Ca PETase		Hong, 2023	GenBank	SHM40309.1
+63	Polyethylene terephthalate (PET)	PET	Caldibacillus thermoamylovorans	Lip4_120	EC:3.1.1.3	Yan, 2024	GenBank	WP_108898452.1
+64	Polyethylene terephthalate (PET)	PET	Caldibacillus thermoamylovorans	Est8_89	EC:4.2.99.20	Yan, 2024	GenBank	CEE00769.1
+65	Polyethylene terephthalate (PET)	PET	Caldibacillus thermoamylovorans	Est11_32		Yan, 2024	GenBank	WP_041846030.1
+66	Polyethylene terephthalate (PET)	PET	Caldibacillus thermoamylovorans	Est18_23	EC 3.1.1.-	Yan, 2024	GenBank	WP_041847557.1
+67	Polyethylene terephthalate (PET)	PET	Caldibacillus thermoamylovorans	Ces19_14	EC 3.1.1.1	Yan, 2024	GenBank	WP_034767800.1
+68	Polyethylene terephthalate (PET)	PET	Caldibacillus thermoamylovorans	Ces39_5	EC 3.1.1.1	Yan, 2024	GenBank	WP_108898647.1
+69	Polyethylene terephthalate (PET)	PET	Holdemanella biformis	HG-2		Zhou, 2024	GenBank	WP_118011433
+70	Polyethylene terephthalate (PET)	PET	Clostridiales bacterium AM23-16LB	HG-3		Zhou, 2024	GenBank	RGD93181
+71	Polyethylene terephthalate (PET)	PET	Heyndrickxia coagulans	HG-4		Zhou, 2024	GenBank	WP_013858543.1
+72	Polyethylene terephthalate (PET)	PET	Aequorivita sp. CIP111184	PET27	EC 3.1.1.1	Zhang, 2022	GenBank	WP_111881932
+73	Polyethylene terephthalate (PET)	PET	Kaistella ( Chryseobacterium ) jeonii	PET30	EC 3.1.1.1	Zhang, 2022	GenBank	WP_039353427
+74	Polyethylene terephthalate (PET)	PET	Chloroflexi bacterium	IS10 4		Distaso, 2023	GenBank	UNZ81746
+75	Polyethylene terephthalate (PET)	PET	Chloroflexi bacterium	IS12 4		Distaso, 2023	GenBank	UNZ81748
+76	Polyethylene terephthalate (PET)	PET	Dehalococcoidia bacterium	IS11 4		Distaso, 2023	GenBank	UNZ81747
+77	Polyethylene terephthalate (PET)	PET	Deinococcus maricopensis DSM 21211	PET1 /Dm PETase		Danso et al., 2018; Makryniotis et al., 2023	UniProt	E8U721
+78	Polyethylene terephthalate (PET)	PET	Geothermal metagenome	Sis		Ercolano, 2024	GenBank	XDS72785.1
+79	Polyethylene terephthalate (PET)	PET	Compost metagenome	PHL-4 2		Sonnendecker, 202	GenBank	SAY37584.1
+80	Polyethylene terephthalate (PET)	PET	Compost metagenome	PHL-5 2		Sonnendecker, 202	GenBank	SAY37587.1
+81	Polyethylene terephthalate (PET)	PET	Compost metagenome	PHL-6 2		Sonnendecker, 202	GenBank	SAY37589.1
+82	Polyethylene terephthalate (PET)	PET	Candidatus Bathyarchaeota archaeon	PET46	EC 3.1.1.73	Perez-Garcia, 2023	GenBank	RLI42440.1
+83	Polyethylene terephthalate (PET)	PET	Fusarium solani	FsC	EC 3.1.1.74	Silva, 2005	GenBank	AAA33335.1
+84	Polyethylene terephthalate (PET)	PET	Fusarium oxysporum	Fo Cut5a	EC 3.1.1.74	Dimarogona, 2015	UniProt	X0BTD8
+85	Polyethylene terephthalate (PET)	PET	Humicola insolens	HiC	EC 3.1.1.74	Ronkvist, 2009,; Carniel, 2017; Brackmann, 2023	UniProt	A0A075B5G4
+86	Polyethylene terephthalate (PET)	PET	Moniliophthora roreri	MRCUT1	EC 3.1.1.74	Vázquez-Alcántara, 2021	GenBank	ESK97883
+87	Polyethylene terephthalate (PET)	PET	Dactylonectria macrodidyma	DmC	EC 3.1.1.74	Brinch-Pedersen, 2024	GenBank	KAH7127633
+88	Polylactic acid (PLA)	PLA	Amycolatopsis ( Nocardia) orientalis	PLAse II (PLase2)	EC 3.4.-	Fan, 2008	UniProt	B0FLR6
+89	Polylactic acid (PLA)	PLA	Amycolatopsis ( Nocardia) sp. strain K104-1		EC 3.4	Nakamura, 2001	GenBank	Q75UA4
+90	Polylactic acid (PLA)	PLA	Comamonas acidovorans TB-35	mainly PUR active esterase	EC 3.1.1.1	Akutsu, 1998	GenBank	BAA76305.1
+91	Polylactic acid (PLA)	PLA	Alcanivorax borkumensis	ABO2449, esterase	EC 3.1.1.1	Hajhigasemi, 2016	UniProt	Q0VLQ1
+92	Polylactic acid (PLA)	PLA	Rhodopseudomonas palustris	RPA1511, esterase	EC 3.1.1.1	Hajhigasemi, 2016; Xie, 2024	UniProt	Q6N9M9
+93	Polylactic acid (PLA)	PLA	Lederbergia (Bacillus) lentus	protease, Subtilisin, 'Savinase'	EC 3.4.-	Oda, 2000	UniProt	P29600
+94	Polylactic acid (PLA)	PLA	Lederbergia (Bacillus) lentus	protease, Subtilisin BL	EC 3.4.-	Oda, 2000	UniProt	P29599
+95	Polylactic acid (PLA)	PLA	Lederbergia (Bacillus) licheniformis	protease, Subtilisin, subC	EC 3.4.-	Oda, 2000	UniProt	P00780
+96	Polylactic acid (PLA)	PLA	Thermobifida (Thermomonospora) alba AHK119	Est1		Hu, 2010; Kitadokoro, 2019	UniProt	D4Q9N1
+97	Polylactic acid (PLA)	PLA	Thermobifida alba AHK119	Ta_cut /Est119, Est2		Hu, 2010; Kitadokoro, 2019	GenBank	F7IX06
+98	Polylactic acid (PLA)	PLA	Laceyella sacchari LP175	LP175		Hanphakphoom, 2014	UniProt	A0A291HVH1
+99	Polylactic acid (PLA)	PLA	Thermobifida cellulosilytica	Thc_cut1		Herrereo Acero, 2011; Ribitsch 2017	UniProt	E9LVH8
+100	Polylactic acid (PLA)	PLA	Thermobifida cellulosilytica	Thc_cut2		Herrereo Acero, 2011; Ribitsch 2017	UniProt	E9LVH9
+101	Polylactic acid (PLA)	PLA	Bacillus safensis PLA1006	TGL		Wang, 2024	GenBank	WAT79796
+102	Polylactic acid (PLA)	PLA	Actinomadura keratinilytica T16-1	PAM		Guicherd, 2024	UniProt	A0A0U5AS91
+103	Polylactic acid (PLA)	PLA	Marine metagenome	esterase, MGS0109 (KC986401)	EC 3.1.1.1	Tchigvintsev, 2015	GenBank	AGT96415
+104	Polylactic acid (PLA)	PLA	Marine metagenome	esterase, MGS0010 (KF801579)	EC 3.1.1.1	Tchigvintsev, 2015	GenBank	AHG30919.1
+105	Polylactic acid (PLA)	PLA	Marine metagenome	esterase, MGS0105 (KC986400)	EC 3.1.1.1	Tchigvintsev, 2015	GenBank	AGT96414.1
+106	Polylactic acid (PLA)	PLA	Metagenome clone MGS0156		EC 3.1.1.1	Hajighasemi, 2018	GenBank	AKJ87264
+107	Polylactic acid (PLA)	PLA	Metagenome clone GEN0105		EC 3.1.1.1	Hajighasemi, 2018	GenBank	AKJ87216
+108	Polylactic acid (PLA)	PLA	PlaM5	depolymerase	EC 3.1.1.1	Mayumi, 2008	UniProt	A4UZ11
+109	Polylactic acid (PLA)	PLA	PlaM8	depolymerase	EC 3.1.1.1	Mayumi, 2008	UniProt	A4UZ13
+110	Polylactic acid (PLA)	PLA	Parengyodontium album ( Tritirachium album )	Proteinase K	EC 3.4.21.64		UniProt	P06873
+111	Polylactic acid (PLA)	PLA	Aspergillus oryzae ATCC42149	cutinase CutL1	EC:3.1.1.74	Maeda, 2005; Oda, 2000	UniProt	P52956
+112	Polylactic acid (PLA)	PLA	Cryptococcus (Saitozyma flava) flavus GB -1	CLE		Ueda, 2021	UniProt	A0A0P0ZE81
+113	Polylactic acid (PLA)	PLA	Cryptococcus magnus	CmCut		Ueda, 2021	UniProt	A0A060N5H2
+114	Polylactic acid (PLA)	PLA	Paraphoma sp. B47-9			Suzuki, 2014	UniProt	A0A060N399
+115	Polyhydroxyalkanoates (PHA)	PHA	-Phaz1		internal	Handrick, 2000; Saegusa, 2001	UniProt	Q0KCI0
+116	Polyhydroxyalkanoates (PHA)	PHA	- PhaZ2		internal	York, 2003	UniProt	Q0K7T2
+117	Polyhydroxyalkanoates (PHA)	PHA	- PhaZ3		internal	York, 2003; Brigham,2012	UniProt	Q0K4D5
+118	Polyhydroxyalkanoates (PHA)	PHA	- PhaZ4		internal	Brigham,2012	UniProt	Q7WXF6
+119	Polyhydroxyalkanoates (PHA)	PHA	- PhaZ5		internal	Brigham,2012	UniProt	Q0K2G9
+120	Polyhydroxyalkanoates (PHA)	PHA	-PhaZ6 (PhaZd1)		external	Abe, 2005; Sznajder, 2014	UniProt	Q0JZG9
+121	Polyhydroxyalkanoates (PHA)	PHA	-PhaZ7 (PhaZd2)		external	Sznajder, 2014	UniProt	Q0JYJ1
+122	Polyhydroxyalkanoates (PHA)	PHA	-PhaY1 (PhaZ2)		acts on oligomers	Kobayashi, 2003; Brigham,2012	UniProt	Q0K9H3
+123	Polyhydroxyalkanoates (PHA)	PHA	-PhaY2		acts on oligomers	Brigham,2012	UniProt	Q0KBZ6
+124	Polyhydroxyalkanoates (PHA)	PHA	Alcaligenes faecalis	PhaZ Afa		Kasuya, 1999	UniProt	P94146
+125	Polyhydroxyalkanoates (PHA)	PHA	Paucimonas lemoignei	PhaZ7		Jendrossek, 2013	UniProt	Q939Q9
+126	Polyhydroxyalkanoates (PHA)	PHA	Paucimonas lemoignei	PhaZ5		Braaz, 2002	UniProt	Q51871
+127	Polyhydroxyalkanoates (PHA)	PHA	Pseudomonas stutzeri	PhaZst		Ohura, 1999; Kasuya 1999	UniProt	O82950
+128	Polyhydroxyalkanoates (PHA)	PHA	Talaromyces (Penicilium) funiculosus			Miyazaki, 2000; Brucato, 1991	UniProt	B2NHN2
+129	Polybutylene adipate terephtalate (PBAT)	PBAT	Pseudomonas pseudoalcaligenes	PpEst (tesA)	EC 3.1.1.	Wallace, 2016	UniProt	W6R2Y2
+130	Polybutylene adipate terephtalate (PBAT)	PBAT	Rhodococcus fascians NKCM2511	PBATH RF , pbath		Soulenthone, 2021	UniProt	A0A7I8E2Z4
+131	Polybutylene adipate terephtalate (PBAT)	PBAT	Clostridium hathewayi DSM-13479	Chath_Est1		Perz, 2016	GenBank	ALS54749.1
+132	Polybutylene adipate terephtalate (PBAT)	PBAT	Thermobifida cellulosilytica	Thc_cut1	EC 3.1.1.74	Perz, 2016	GenBank	ADV92526.1
+133	Polybutylene adipate terephtalate (PBAT)	PBAT	Thermobifida alba	Est1	EC 3.1.1.1	Thumarat,; 2015	GenBank	BAI99230
+134	Polybutylene adipate terephtalate (PBAT)	PBAT	Thermobifida alba	Est119	EC 3.1.1.1	Thumarat, 2012	UniProt	F7IX06
+135	Polybutylene adipate terephtalate (PBAT)	PBAT	Pelosinus fermentans DSM 17108	PFL1		Biundo, 2016	GenBank	EIW29778.1
+136	Polybutylene adipate terephtalate (PBAT)	PBAT	Clostridium botulinum	Cbotu_EstA		Perz, 2015	GenBank	AKZ20828.1
+137	Polybutylene adipate terephtalate (PBAT)	PBAT	Clostridium botulinum	Cbotu_EstB		Perz, 2015	GenBank	AKZ20829.1
+138	Polybutylene adipate terephtalate (PBAT)	PBAT	Bacillus pumilus	PBATH Bp		Muroi, 2017	UniProt	A0A1E1FNX8
+139	Polybutylene adipate terephtalate (PBAT)	PBAT	Thermobacillus composti KWC4	Tcca		Wu, 2023	UniProt	L0EF70
+140	Polybutylene adipate terephtalate (PBAT)	PBAT	Humicola insolens	HiC	EC 3.1.1.74	Perz, 2016	UniProt	A0A075B5G4
+141	Polybutylene adipate terephtalate (PBAT)	PBAT	Blastobotrys sp. G-9	BaCut1		Jiang, 2024	GenBank	XAQ58225
