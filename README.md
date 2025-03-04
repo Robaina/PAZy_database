@@ -6,18 +6,12 @@ This Python script scrapes enzyme information from the [PAZy Database](https://p
 
 - Fetches polymer type links (e.g., PET, PUR, PLA) from the PAZy landing page.
 - Visits each polymer-specific page and retrieves detailed enzyme metadata such as the organism, enzyme name, EC number, relevant references, and UniProt accession ID.
+- Correctly extracts polymer IDs from abbreviations in parentheses (e.g., "PLA" from "Polylactic acid (PLA)").
 - Automatically retrieves enzyme sequences from UniProt based on accession IDs.
 - Stores the extracted enzyme metadata in a tab-separated values (TSV) file (`PAZy_metadata.tsv`).
 - Saves enzyme sequences in FASTA format in a separate file (`PAZy_sequences.fasta`).
 
 ## Requirements
-
-Ensure you have Python installed. You need the following Python packages:
-
-```bash
-requests
-beautifulsoup4
-```
 
 Install the required packages with:
 
@@ -27,16 +21,44 @@ pip install -r requirements.txt
 
 ## How to Use
 
-Simply run the script from your command line:
+Run the script from your command line with optional arguments:
 
 ```bash
+python pazy_scraper.py [--output OUTPUT_DIR] [--log LOG_FILE]
+```
+
+### Command-line Arguments
+
+- `--output`: Path to the output directory (default: current directory)
+- `--log`: Path to the log file (optional)
+
+### Example Usage
+
+```bash
+# Basic usage (outputs to current directory)
 python pazy_scraper.py
+
+# Specify output directory
+python pazy_scraper.py --output data/
+
+# Specify log file
+python pazy_scraper.py --log scraper.log
+
+# Specify both output directory and log file
+python pazy_scraper.py --output data/ --log logs/scraper.log
 ```
 
 Upon completion, two files are generated:
 
-- **`PAZy_metadata.tsv`**: Contains enzyme details (polymer type, organism, enzyme name, EC number, references, and UniProt ID).
-- **`PAZy_sequences.fasta`**: Contains the corresponding enzyme sequences in FASTA format.
+- **`PAZy_metadata.tsv`**: Contains enzyme details (polymer type, polymer ID, organism, enzyme name, EC number, references, and database ID).
+- **`PAZy_sequences.fasta`**: Contains the corresponding enzyme sequences in FASTA format with headers including internal ID and polymer ID.
+
+## Polymer ID Extraction
+
+The script intelligently extracts polymer IDs:
+- First attempts to find abbreviations in parentheses (e.g., "PLA" from "Polylactic acid (PLA)")
+- Falls back to special cases for common polymers (PET, PUR)
+- If no abbreviation is found, uses the first three letters of the polymer name
 
 ## Sequence Prefix Meaning (UniProt FASTA headers)
 
@@ -59,8 +81,8 @@ MKVILFKKRSLQILVALALVIGSMAFIQPKEVKAAEHNPVVMVHGIGGASYNFASIKSYLVGQGWDRNQLYAIDFIDKTG
 
 - SSL certificate warnings are intentionally suppressed (`verify=False`) to handle SSL certificate verification issues with PAZy.
 - The script includes polite scraping practices by implementing delays between requests to avoid overloading the servers.
+- Robust error handling and retry logic are implemented to handle intermittent connection issues.
 
 ## Disclaimer
 
 Use responsibly and ensure your scraping practices comply with the PAZy and UniProt terms of service.
-
